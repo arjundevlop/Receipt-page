@@ -1,0 +1,36 @@
+.FormRc
+
+
+.input{
+  height: 20px;
+  flex: 0 0 200px;
+  margin-left: 10px;
+}
+
+.TableBox{
+  margin-left: auto;
+  margin-right: auto;
+}
+    
+    table {
+      margin-left: auto;
+      margin-right: auto;
+    border: 2px solid black;
+    width: 500px;
+    height: 50px;
+
+    border-collapse: collapse;
+    }
+    
+    th {
+      border-collapse: collapse;
+      border: 2px solid black;
+    border-bottom: 1px solid black;
+    }
+    
+    td {
+      border-collapse: collapse;
+      border: 2px solid black;
+    text-align: center;
+    }
+  
